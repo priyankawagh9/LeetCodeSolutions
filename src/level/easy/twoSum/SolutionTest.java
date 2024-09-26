@@ -1,4 +1,4 @@
-package twoSum;
+package level.easy.twoSum;
 
 import org.junit.jupiter.api.Assertions;
 
