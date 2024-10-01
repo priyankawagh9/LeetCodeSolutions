@@ -9,11 +9,11 @@ import java.util.*;
  * boolean param_1 = obj.book(start,end);
  */
 
-public class MyCalendar1 {
+public class MyCalendarI {
 
     TreeSet<int[]> event;
 
-    public MyCalendar1() {
+    public MyCalendarI() {
         this.event = new TreeSet<>((e1,e2) -> (e1[0]-e2[0]));
     }
 
